@@ -38,7 +38,6 @@ const Hero = () => {
 
   return (
     <div className="min-h-screen bg-gray-950 text-white px-6 py-12">
-      {/* Heading */}
       <h1 className="text-4xl font-semibold text-center mb-12">
         TagGo Frontend Task
       </h1>
